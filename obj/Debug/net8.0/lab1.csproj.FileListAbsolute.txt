@@ -1,0 +1,15 @@
+/home/z0tedd/Documents/university/6_semester/oop/lab1/bin/Debug/net8.0/lab1
+/home/z0tedd/Documents/university/6_semester/oop/lab1/bin/Debug/net8.0/lab1.deps.json
+/home/z0tedd/Documents/university/6_semester/oop/lab1/bin/Debug/net8.0/lab1.runtimeconfig.json
+/home/z0tedd/Documents/university/6_semester/oop/lab1/bin/Debug/net8.0/lab1.dll
+/home/z0tedd/Documents/university/6_semester/oop/lab1/bin/Debug/net8.0/lab1.pdb
+/home/z0tedd/Documents/university/6_semester/oop/lab1/obj/Debug/net8.0/lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/z0tedd/Documents/university/6_semester/oop/lab1/obj/Debug/net8.0/lab1.AssemblyInfoInputs.cache
+/home/z0tedd/Documents/university/6_semester/oop/lab1/obj/Debug/net8.0/lab1.AssemblyInfo.cs
+/home/z0tedd/Documents/university/6_semester/oop/lab1/obj/Debug/net8.0/lab1.csproj.CoreCompileInputs.cache
+/home/z0tedd/Documents/university/6_semester/oop/lab1/obj/Debug/net8.0/lab1.sourcelink.json
+/home/z0tedd/Documents/university/6_semester/oop/lab1/obj/Debug/net8.0/lab1.dll
+/home/z0tedd/Documents/university/6_semester/oop/lab1/obj/Debug/net8.0/refint/lab1.dll
+/home/z0tedd/Documents/university/6_semester/oop/lab1/obj/Debug/net8.0/lab1.pdb
+/home/z0tedd/Documents/university/6_semester/oop/lab1/obj/Debug/net8.0/lab1.genruntimeconfig.cache
+/home/z0tedd/Documents/university/6_semester/oop/lab1/obj/Debug/net8.0/ref/lab1.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGaUlSKZ1bR48Re740pJHYxRe6PIgZuDEHlGl3U7hiZV3y1LA26ouGnCVI+JxrI6SpU6yqBo7BlW4eP+6EsUwA==",
+  "success": true,
+  "projectFilePath": "/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/LibraryLINQ.csproj",
+  "expectedPackageFiles": [
+    "/home/z0tedd/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.22/microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

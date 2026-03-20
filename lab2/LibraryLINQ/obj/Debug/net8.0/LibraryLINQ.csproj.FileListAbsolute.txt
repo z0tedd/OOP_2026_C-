@@ -1,0 +1,15 @@
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/bin/Debug/net8.0/LibraryLINQ
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/bin/Debug/net8.0/LibraryLINQ.deps.json
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/bin/Debug/net8.0/LibraryLINQ.runtimeconfig.json
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/bin/Debug/net8.0/LibraryLINQ.dll
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/bin/Debug/net8.0/LibraryLINQ.pdb
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/obj/Debug/net8.0/LibraryLINQ.GeneratedMSBuildEditorConfig.editorconfig
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/obj/Debug/net8.0/LibraryLINQ.AssemblyInfoInputs.cache
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/obj/Debug/net8.0/LibraryLINQ.AssemblyInfo.cs
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/obj/Debug/net8.0/LibraryLINQ.csproj.CoreCompileInputs.cache
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/obj/Debug/net8.0/LibraryLINQ.sourcelink.json
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/obj/Debug/net8.0/LibraryLINQ.dll
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/obj/Debug/net8.0/refint/LibraryLINQ.dll
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/obj/Debug/net8.0/LibraryLINQ.pdb
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/obj/Debug/net8.0/LibraryLINQ.genruntimeconfig.cache
+/home/z0tedd/Documents/university/6_semester/oop/lab2/LibraryLINQ/obj/Debug/net8.0/ref/LibraryLINQ.dll
